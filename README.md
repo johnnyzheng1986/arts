@@ -1,2 +1,7 @@
 # arts
-10week arts learning
+10week ARTS
+
+A:Algorithm，每周至少做一个Leecode算法题，主要是编程训练和学习
+R:Review，阅读至少一篇英文技术文章，主要是为了学习英文
+T:Tip，至少学习一个技巧，主要是为了总结和归纳你在日常工作中所遇到的知识点
+S:Share，分享一篇有观点和思考的技术文章。主要是为了建立影响力，能够输出价值观
